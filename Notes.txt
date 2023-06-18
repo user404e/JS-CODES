@@ -1,3 +1,15 @@
-- JavaScript Executes On Browser.
+* JavaScript Executes On Browser.
+* JavaScript Is Case Sensitive.
+* JavaScript Is Dynamically Typed Language.
 
-- 
+-) Variables :
+
+	* Variables Are Like Containers Which Can Store Some Value.
+
+	* 'var' , 'let' is used to create variables.
+	
+	* eg - let a = 69;
+
+	* variable name not start with any number or variable name cannot be same as reserved keywords.
+
+	* 
